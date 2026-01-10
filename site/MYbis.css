@@ -41,7 +41,7 @@ h4{
 padding-left:40px;
 padding-top: 20px;
 height: 85px;
-background: color: #9b735f;
+background-color: #138565;
 font-size: 30px;
 text-align: center;
 }
@@ -52,7 +52,7 @@ margin : 0px 0px 0px 0px;
 
 
 .affichage{
-	border: 1px solid #9b735f;
+	border: 1px solid #138565;
 	border-width: medium;
 	text-align: center;
 	width: 350px;
@@ -64,11 +64,11 @@ margin : 0px 0px 0px 0px;
 	padding-top: 20px;
 	font-size: 33px;
 	color : #000000;
-	background-color: #9b735f
+	background-color: #138565
 }
 
 .lien {
-	color: #9b735f
+	color: #138565
 }
 
 .mini{
@@ -93,11 +93,11 @@ margin : 0px 0px 0px 0px;
 }
 
 a {
-  color: #9b735f;
+  color: #138565;
 }
 
 input[type=radio]#Brown {
-            accent-color: #9b735f;
+            accent-color: #138565;
 }
 
 input[type=text]:focus {
@@ -112,7 +112,7 @@ input[type=text]:focus {
 }
 
 .button:hover {
-      background-color: #9b735f ;
+      background-color: #138565 ;
       transition : 0.3s ;
   }
 
