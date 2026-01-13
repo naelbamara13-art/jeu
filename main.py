@@ -5,7 +5,7 @@ pygame.init()
 
 # music :
 pygame.mixer.init()
-pygame.mixer.music.load("music/music.epic.mp3")
+pygame.mixer.music.load("music/music.epic.mp3") 
 pygame.mixer.music.play(-1)
 pygame.mixer.music.set_volume(0.5)
 
